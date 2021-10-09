@@ -1,0 +1,35 @@
+.page-header {
+  font-size: 150px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(127, 11, 204);
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.paragraph {
+  text-align: center;
+  letter-spacing: 5px;
+}
+
+.text-indent-paragraph {
+  text-indent: 100px;
+  text-align: justify;
+  font-size: 20px;
+  text-transform: capitalize;
+  word-spacing: 5px;
+}
+
+.decoration {
+  text-decoration: underline;
+  color: rgb(44, 80, 240);
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+.link {
+  text-decoration: underline;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  color: #0645AD;
+}

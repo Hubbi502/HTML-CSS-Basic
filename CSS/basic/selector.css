@@ -1,0 +1,56 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* 
+h1 {
+  color: green;
+}
+
+h2 {
+  color: green;
+} 
+
+! ini tidak perlu dilakukan
+! ini bisa di lakukan dengan comma operator 
+h1,h2 {
+  ...
+}
+*/
+
+h1,h2 {
+  color: rgb(0, 128, 0);
+}
+
+/* jika h2 ingin diberi style lain,itu bisa! */
+h2{
+  font-family: 'Times New Roman', Times, serif;
+}
+
+/* spasi digunakan untuk menempatkan suatu elemen di dalamnya*/
+ul li a{
+  color : orange;
+}
+ol li a{
+  color: red;
+}
+
+/* selector untuk id */
+#p1{
+  color: orangered;
+}
+
+/* selector untuk class */
+.p2{
+  color: blueviolet;
+}
+
+/* untuk class bisa diikuti setelahnya dengan menggunakan sepasi */
+.cetak-tebal{
+  font-weight: bold;
+}
+
+/* bisa menseleksi class di dalam suatu tag html */
+p.cetak-tebal{
+  font-size: 30px;
+}

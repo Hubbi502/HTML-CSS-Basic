@@ -1,0 +1,10 @@
+body {
+  background-color: lightblue;
+  background-image: url(../img/moroccan-flower.png);
+  background-repeat: no-repeat;
+  background-position: top center;
+}
+
+.body {
+  background: wheat url(../img/moroccan-flower.png) no-repeat top center;
+}
